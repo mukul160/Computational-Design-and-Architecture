@@ -44,6 +44,7 @@ with a focus on work relevant to ITKE, IAAC, ETH Zürich, and related labs.
 - Tags:
   - Tags: - #RoboticFabrication #3DConcretePrinting #InteractiveDesign #AugmentedReality #OnSiteConstruction #ComputationalDesign #CementitiousMaterials
 
+---
 ### Augmented Human, Extended Machine  
 **Daniela Mitterberger (2022)** — *XRDS / ACM*  
 DOI: 10.1145/3558196
