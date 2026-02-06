@@ -43,3 +43,32 @@ with a focus on work relevant to ITKE, IAAC, ETH Zürich, and related labs.
 
 - Tags:
   - Tags: - #RoboticFabrication #3DConcretePrinting #InteractiveDesign #AugmentedReality #OnSiteConstruction #ComputationalDesign #CementitiousMaterials
+
+### Augmented Human, Extended Machine  
+**Daniela Mitterberger (2022)** — *XRDS / ACM*  
+DOI: 10.1145/3558196
+
+**Context**  
+Robotic fabrication in AEC struggles in unstructured environments. Existing GUI-based, linear workflows marginalize human involvement and suppress embodied, tacit knowledge during fabrication.
+
+**Contribution**  
+Proposes extended reality (XR) as a framework for reciprocal human–machine augmentation, enabling embodied, real-time human–robot collaboration in architectural fabrication.
+
+**Computation Strategy**  
+Real-time, bidirectional feedback loops translate human motion and interaction into robotic trajectories via an interactive computational model (“design-synthesizer”).
+
+**Material / Fabrication**  
+On-site robotic plaster spraying (IRoP) using projection-based AR and motion capture, integrating craft-based hand movements directly into robotic fabrication.
+
+**Why it Matters**  
+Reframes human-in-the-loop fabrication as a strength rather than a limitation, enabling adaptive, site-specific, and collaborative robotic construction workflows.
+
+**Limitations**  
+Hardware-intensive XR setups; task- and user-specific interface design; limited scalability beyond experimental contexts.
+
+**Key Takeaway**  
+XR enables a “workmanship of synthesis,” balancing machine precision with human judgment by overlapping design and fabrication through embodied interaction.
+
+**Tags**  
+`XR` `Human-in-the-loop` `Robotic Fabrication` `Digital Embodiment` `AR Interfaces` `AEC Robotics`
+
