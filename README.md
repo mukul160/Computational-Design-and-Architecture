@@ -135,3 +135,36 @@ Construction robotics will produce decacorns, but **durable $10B-scale value is 
 - Vertical deployments provide access to real-world edge cases that platforms struggle to obtain
 
 ---
+
+## Cooperative Augmented Assembly (CAA)
+*Alexi, E.V., Kenny, J.C., Atanasova, L. et al. Cooperative augmented assembly (CAA): augmented reality for on-site cooperative robotic fabrication. Constr Robot 8, 28 (2024)*
+
+**Cooperative Augmented Assembly (CAA)** proposes an on-site fabrication framework where humans and robots collaboratively assemble architectural structures instead of relying on fully automated or off-site prefabrication.
+
+The system emphasizes cooperation rather than autonomy, allowing construction processes to adapt to real-world uncertainty, variation, and material tolerances.
+
+### Core Idea
+
+CAA combines human spatial understanding and decision-making with robotic precision and physical assistance.
+Augmented Reality (AR) is used as a shared interface, enabling both human workers and robots to follow coordinated assembly instructions in real time.
+
+### Methodology
+
+Robots support tasks requiring accuracy, reach, or strength, while humans handle alignment, judgment, and situational adjustments.
+AR overlays visualize assembly sequences, tolerances, and robot actions directly in the construction environment.
+
+### Key Contributions
+
+The paper introduces a human–robot collaborative workflow tailored for on-site architectural fabrication.
+It demonstrates how AR can function as a communication layer between digital design models, robotic systems, and human builders.
+
+### Significance
+
+CAA challenges fully autonomous construction models by showing that cooperative systems are more robust in unpredictable building environments.
+The framework suggests a scalable direction for architectural robotics that integrates human expertise rather than replacing it.
+
+### Keywords
+
+Architectural Robotics · Human–Robot Collaboration · Augmented Reality · On-site Fabrication · Computational Design
+
+---
