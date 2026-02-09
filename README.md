@@ -133,7 +133,47 @@ Construction robotics will produce decacorns, but **durable $10B-scale value is 
 - Outcomes and rails are not mutually exclusive and will increasingly converge.
 - Outcome-led companies can more easily grow upward into platforms than vice versa.
 - Vertical deployments provide access to real-world edge cases that platforms struggle to obtain
+
 ---
 
+### Cooperative Augmented Assembly (CAA) Summary
 
+**Context**
+- [cite_start]Traditional digital fabrication workflows are often linear and fully automated[cite: 11].
+- [cite_start]These processes lack flexibility and exclude human manual actions[cite: 3, 17].
+- [cite_start]Modern construction requires more adaptive, human-in-the-loop systems[cite: 23].
 
+**Contribution**
+- [cite_start]Developed a phone-based AR application for manual and robotic task sharing[cite: 4, 95].
+- [cite_start]Created an adaptive data structure linking design to real-time user input[cite: 387].
+- [cite_start]Enabled intuitive supervision and direct control of robots via mobile devices[cite: 384].
+
+**Computational Strategy**
+- [cite_start]Uses a "task-shop" repository to distribute actions between agents[cite: 385].
+- [cite_start]Employs a cloud-based server to synchronize digital models in real-time[cite: 135].
+- [cite_start]Utilizes QR code markers for localizing the digital model in physical space[cite: 190].
+
+**Material/Fabrication**
+- [cite_start]Demonstrated through the assembly of complex timber structures[cite: 4].
+- [cite_start]Focuses on reciprocal frames with intricate interlocking joints[cite: 224, 352].
+- [cite_start]Combines human manual dexterity with robotic stability and placement[cite: 340].
+
+**Why it Matters**
+- [cite_start]Harnesses the unique strengths of both humans and robots[cite: 339].
+- [cite_start]Reduces the need for constant back-and-forth with computer workstations[cite: 349].
+- [cite_start]Makes digital fabrication more accessible to novices through intuitive UIs[cite: 326].
+
+**Limitations**
+- [cite_start]Tracking accuracy is heavily reliant on manual QR code placement[cite: 356].
+- [cite_start]Current mobile hardware has low spatial resolution for sub-millimeter precision[cite: 362].
+- [cite_start]Lacks a formal security and user authentication system[cite: 369].
+
+**Takeaway**
+- [cite_start]CAA shifts digital models from static representations to live decision records[cite: 335].
+- [cite_start]Human-machine cooperation enriches digital craft rather than replacing it[cite: 341].
+- [cite_start]Future AEC workflows can benefit from highly flexible, mobile AR interfaces[cite: 398].
+
+**Tags**
+#ConstructionRobotics #AugmentedReality #HumanRobotCollaboration #DigitalCraft #AEC
+
+---
