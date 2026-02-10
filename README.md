@@ -117,3 +117,36 @@ Vertical robots drive early traction, but infrastructure platforms are better po
 `Construction Robotics` `Platforms vs Verticals` `Autonomy Infrastructure` `AEC Technology` `Robotics Strategy`
 
 ---
+
+## Degrees of Life
+**Degrees of Life** is an experimental architectural environment that explores how human attention can influence living systems embedded within space.
+Rather than treating architecture as a static object or a controllable machine, the project frames it as a **co-evolving system** involving humans, computation, and biological matter.
+
+### Core Idea
+The research proposes that **human perception itself**—specifically visual attention—can function as an architectural input.
+Instead of explicit commands or interfaces, the project uses gaze to create indirect, non-deterministic interactions with living organisms.
+
+### Human Attention as Input
+Visitors wear an eye-tracking device that measures where they look, for how long, and with what intensity (including unconscious signals such as pupil dilation).
+Gaze is interpreted as sustained attention rather than intentional control, allowing the system to respond to what draws human focus over time.
+
+### Living Environments
+The installation consists of three enclosed environments hosting different bacteria: *Escherichia coli*, *Sucrofermentas*, and cyanobacteria.
+Each environment responds to gaze-driven machine actions that alter conditions such as chemical composition, nutrient distribution, or light exposure.
+
+### Feedback Loops
+Human attention triggers subtle environmental changes, while biological processes respond slowly and autonomously.
+The resulting system forms a feedback loop in which humans influence conditions, bacteria transform the environment, and those transformations in turn shape human perception.
+
+### Broader Implications
+Degrees of Life challenges control-oriented models of interactive architecture by emphasizing **influence over command**.
+It suggests future architectural systems that respond to presence, attention, and long-term behavioral patterns rather than explicit user input.
+
+### Significance
+The project expands architectural computation beyond optimization and automation toward **co-authorship with living systems**.
+It positions architecture as an ongoing process that unfolds across biological, computational, and human timescales rather than a finished artifact.
+
+### Keywords
+Living Architecture · Human Attention · Bio-computation · Responsive Environments · Co-evolving Systems
+
+---
