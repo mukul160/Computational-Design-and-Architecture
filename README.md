@@ -150,3 +150,25 @@ It positions architecture as an ongoing process that unfolds across biological, 
 Living Architecture · Human Attention · Bio-computation · Responsive Environments · Co-evolving Systems
 
 ---
+
+# Research Summary: Building (with) Human-Robot Teams (2025)
+
+**Title:** Building (with) human-robot teams: fabrication-aware design, planning, and coordination of cooperative assembly processes  
+**Authors:** Lidia Atanasova, Joseph Clair Kenny, Eleni Vasiliki Alexi, Frederic Chovghi, Daniela Mitterberger, Kathrin Dörfler  
+**Journal:** *Construction Robotics* (2025) 9:16  
+**DOI:** [10.1007/s41693-025-00158-w](https://doi.org/10.1007/s41693-025-00158-w)
+
+## Key Concepts
+- **Assembly Grammar:** Rule-based growth logic for reciprocal timber frames.
+- **Assembly Model (AM):** A cloud-hosted, graph-based data structure capturing spatial and temporal dependencies.
+- **AR Coordination:** A custom AR interface for real-time task guidance and human-robot coordination.
+- **Dynamic Task Reassignment:** Ability to switch tasks between agents based on on-site "affordances."
+
+## Methodology
+The research proposes a **fabrication-aware design tool** that integrates structural stability analysis with robotic reachability constraints. It validates this via a **turn-taking workflow** where mobile robots act as both element placers and temporary structural supports for humans.
+
+## Demonstrators
+1. **Double-curved Funnel:** Explored sequential turn-taking.
+2. **Arc-like Shell:** 141 rods, 17m² area; robots provided active structural support during critical assembly phases to maintain equilibrium without scaffolding.
+
+---
