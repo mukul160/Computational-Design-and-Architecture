@@ -1,3 +1,126 @@
+# State of Robotic Construction & 3D Concrete Printing (3DCP)
+
+Over the past 20 years, robotic construction has evolved from experimental concepts like Contour Crafting into a globally active field spanning academia, startups, and large-scale pilot projects.
+
+Early research focused on **geometric feasibility** — proving that buildings could be fabricated layer-by-layer without formwork.
+
+Today, that question has been answered.
+
+We now know that:
+- Large-scale material extrusion works
+- Printable concrete is viable
+- Structural elements can be fabricated robotically
+- Real buildings can be delivered on-site
+
+Institutions such as ETH Zurich, TU Eindhoven, and Loughborough University helped mature the material and fabrication science, while companies like ICON and COBOD have demonstrated real-world deployment.
+
+The field has now transitioned from:
+
+➡️ "Can we print buildings?"  
+to  
+➡️ "Can robotic systems actually construct buildings?"
+
+---
+
+## What Has Been Solved
+
+### 1. Geometry
+Freeform construction is no longer difficult. Complex walls and spatial layouts are achievable without molds or formwork.
+
+### 2. Printability
+Stable, pumpable, and buildable cementitious materials now exist.
+
+### 3. Speed & Labor Reduction
+Robotic fabrication has demonstrated measurable gains in speed and reduced manual labor.
+
+### 4. Material Efficiency
+Additive processes significantly reduce waste by placing material only where needed.
+
+### 5. Proof of Reality
+Full-scale demonstrators and permitted structures now exist.
+
+---
+
+## What Remains Unsolved
+
+### 1. Reinforcement Integration
+Concrete requires tensile capacity.
+Fully automated reinforcement placement remains an open challenge.
+
+Key questions:
+- Can reinforcement be placed during fabrication?
+- Can it adapt to geometry?
+- Can it be automated without slowing construction?
+
+This is currently one of the most critical unsolved problems.
+
+---
+
+### 2. Construction in Uncertainty
+Construction sites are unpredictable environments.
+
+Unlike factories, they involve:
+- Uneven terrain
+- Material variability
+- Weather effects
+- Alignment deviations
+
+Future systems must move from:
+Pre-programmed execution → Adaptive construction
+
+This introduces the need for sensing, feedback, and responsive robotics.
+
+---
+
+### 3. System Integration
+Printing walls is only a small portion of construction.
+
+Unresolved integration challenges include:
+- MEP systems
+- Openings and interfaces
+- Structural connections
+- Slab and roof integration
+- Multi-trade coordination
+
+The challenge is no longer fabrication — it is orchestration.
+
+---
+
+### 4. Hybrid Construction
+Purely additive buildings are unlikely to dominate.
+
+The emerging paradigm is hybrid:
+- Printing + Assembly
+- Robotics + Prefabrication
+- Fabrication + Placement
+
+Future construction robots will not replace all methods —
+they will augment and integrate them.
+
+---
+
+### 5. Scalability & Codes
+Regulatory acceptance, multi-storey viability, and standardized workflows are still developing.
+
+Technical feasibility is ahead of institutional readiness.
+
+---
+
+## Where the Real Work Is Now
+
+The next frontier lies at the intersection of:
+
+- Robotics in uncertain environments
+- Automated reinforcement strategies
+- Human–robot collaboration
+- Hybrid fabrication systems
+- Construction-aware computational design
+
+The challenge is no longer to build *with robots*.
+
+It is to make robots capable of building in the real world.
+
+
 # Architectural Research Reading Log
 
 This repository documents peer-reviewed research and position papers in computational architecture, digital fabrication, and architectural robotics, with a focus on work relevant to ITKE, IAAC, ETH Zürich, and related labs.
