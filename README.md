@@ -295,3 +295,48 @@ The research proposes a **fabrication-aware design tool** that integrates struct
 2. **Arc-like Shell:** 141 rods, 17m² area; robots provided active structural support during critical assembly phases to maintain equilibrium without scaffolding.
 
 ---
+
+# Research Summary: Project B05 - Mobile Robotics for AMC
+
+Summary of research findings from **TRR 277: Additive Manufacturing in Construction**, Project B05: *Principles of Mobile Robotics for Additive Manufacturing in Construction*.
+
+## 🏗️ Project Overview
+Project B05 investigates how mobile robotic systems can be used for **in-situ 3D printing** on building sites. Unlike stationary systems, mobile manipulators can navigate complex, constrained environments to fabricate large-scale architectural components.
+
+## 🚀 Key Research Goals
+- **Beyond Geometric Reach:** Extending the fabrication range by mounting robotic manipulators on mobile platforms.
+- **In-Situ Fabrication:** Enabling 3D printing in confined spaces or existing structures where large gantry systems cannot fit.
+- **Trajectory Planning:** Developing collision-aware motion planning that synchronizes the movement of the mobile base and the robotic arm.
+
+## 🛠️ Technical Innovations
+| Feature | Description |
+| :--- | :--- |
+| **Redundancy Resolution** | Coordinating multiple degrees of freedom to avoid obstacles (e.g., support beams) while maintaining material flow. |
+| **Fabrication Stages** | Moving from segmented **"Print-Drive-Print"** workflows toward integrated **"Print-While-Driving"** strategies. |
+| **Adaptive Positioning** | Using local referencing to ensure geometric precision relative to the workpiece, even when the base moves. |
+
+## 🏁 Validation Case Study
+The team successfully demonstrated the framework by printing a **self-supported vaulted ceiling** using concrete extrusion. The process required navigating a forest of existing support beams, proving the system's ability to operate in "obstacle-rich" real-world construction scenarios.
+
+*Source: [AMC TRR 277 - Research Summary Report B05](https://amc-trr277.de/research-summary-report-of-b05-2/)*
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
