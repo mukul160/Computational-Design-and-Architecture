@@ -322,8 +322,45 @@ The team successfully demonstrated the framework by printing a **self-supported 
 
 ---
 
+# Research Summary: The Robotic Touch (Gramazio Kohler)
 
+**Title:** The Robotic Touch: How Robots Can Change Architecture  
+**Authors:** Fabio Gramazio, Matthias Kohler (ETH Zürich)  
+**Focus:** Robotic Fabrication, Computational Design, Digital Materiality  
 
+---
+
+## 1. Executive Summary
+*The Robotic Touch* documents the seminal research of the **Gramazio Kohler Research** lab at ETH Zürich between 2005 and 2013. It explores the shift from traditional mass production to **robotic mass-customization**, where the industrial robot acts as a bridge between digital bits and physical atoms. The book argues for a new architectural language defined by the "robotic touch"—the precise, programmed placement of material.
+
+## 2. Core Concepts
+* **Digital Materiality:** The integration of digital data and physical building processes. Instead of robots simply mimicking human labor, they enable geometries and complexities that are manually impossible.
+* **Non-Standardized Assembly:** Utilizing the robot’s ability to treat every component (brick, timber, foam) as a unique entity with its own specific coordinates and orientation.
+* **Additive Logic:** A departure from CNC milling (subtractive) toward additive robotic assembly, laying the groundwork for contemporary **3D Concrete Printing (3DCP)** and autonomous masonry.
+
+## 3. Key Technical Projects
+
+| Project | System | Technical Contribution |
+| :--- | :--- | :--- |
+| **Gantenbein Winery** | Static Robotic Cell | Robotic masonry; 20,000 bricks placed at unique angles to create a "pixelated" facade. |
+| **The Pike Loop** | Mobile R-Unit | In-situ fabrication; a 22m brick wall built on a public street in NYC. |
+| **Structural Oscillations** | Industrial Arm | Robotic timber assembly; precise milling and interlocking of complex wooden slats. |
+| **Flight Assembled Architecture** | Aerial Swarm | Multi-agent assembly; drones autonomously building a 6m tower from foam modules. |
+
+## 4. Architectural Implications
+* **In-Situ Potential:** Moving robotic units from the factory floor to the construction site to handle local material tolerances.
+* **Resource Efficiency:** Precise placement of material reduces waste and optimizes structural performance through complex geometry.
+* **The New Artisan:** The architect transitions from a drafter of forms to a designer of **processes and robotic paths**.
+
+## 5. Research Connections
+This text serves as the theoretical precursor to:
+* **Autonomous Construction:** Mobile robotics and in-situ fabrication.
+* **Mesh Mould:** Robotically fabricated metal reinforcement for concrete.
+* **Large-scale 3DCP:** Additive manufacturing using cementitious materials.
+
+*Summary compiled for Research Portfolio | 2026*
+
+---
 
 
 
